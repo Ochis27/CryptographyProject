@@ -1,0 +1,17 @@
+{
+    "serial_number": 1243873772,
+    "subject": "Bob",
+    "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzaCtMbW7fXc3ypgwRRTv\nk7IzdbsCvxPEFiX+xT/KQWQ1l5AI7Gwdp7pczfNj+UmgZplpB5og69Xi9wXxhgrF\nl/bKGGeWqJKyA/RkkFrtVZN3e0TOyRmtM8UQpFYLGi8AEiypGf5NbPNPEcbJd4jk\ntPTjCtHV7EExiv3ar3Yvg4UjqP66cBpi4ZHWaFVToDCJDa8kT1bQZRfLtx1afpCf\ngV6QfMqiifyK9g1ebxik9+oFgQwa32SDyBeIdmHjso31kqstdWoNNKk/lyrt3Hbk\n7C74qslHp51I9KB+XKwl9nH6/Wq0b2abbhKEw5t2g0Q0AdiO29xux9/Bt/9gTA4X\ngwIDAQAB\n-----END PUBLIC KEY-----\n",
+    "issuer": "ProductionCA",
+    "expiration_date": "2026-01-09T12:04:08.441115",
+    "signature": "Ulg7IQdp6CBnr/osIEbpT917zqphi0cDFXsGOdE/jWvg5wCG+TtJPXE9Xl046npdqcKSJ+6LsftUldHSJNcjqInThqJDnLSzbIChPjVAcFs/ZwzSBiel4f1XaJUHzC/9P2rv0EPZebwEoLsUJcP8sBPOEaOwflMe9oaZU0kvwYjUoO+yihfu/JiCPNNJMGaQh3/MIHoXfmsJyfCApEjI+pUCJ1DJ+dLMB4qZ0YDoptbOJWzotGDPbKS9pFqfSrcDwauQuHzxwFTu6ihXcZhw3IHUNNWYhAzODJwxyQx3FawcWtyq9uKJu6t9xH93eJC++k/wYM4+i7hh89/JE4wnYw==",
+    "extensions": {
+        "basic_constraints": {
+            "ca": false
+        },
+        "key_usage": [
+            "digital_signature",
+            "key_encipherment"
+        ]
+    }
+}

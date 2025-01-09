@@ -1,0 +1,17 @@
+{
+    "serial_number": 2518025874,
+    "subject": "Alice",
+    "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlD136CG6M3qwCJDn0aiH\nnpypqA53pf4EOdtURRL1yM3ePrudeLQs6jeBPqWDZn3DM9FfRAwjLyGSl0QSc8tK\nRd2krtniwRX+YKzebta9JqY/b5mwGbmEXjTnrVr2TKWs7lLMCJCs6+Vqt2qTKhuK\nRUK3ejKLLKvhemrVO3oJ6GdY7e0Q3UtoKAGWLP466gEo3RfNbtK0uRtNFClfMGMV\nAdI5Fpf/DZeuPvyF8z1kJs6LBfBlhrt9MZcLYHNU1d3ZKhLSVW7kgFr5DenKz5jJ\nvdP00KmZB/DQYj7k6wZk7ljalJI5B4bOY3LCXQngm2+rzPfuE9Nw19IyKuXQXOMS\nyQIDAQAB\n-----END PUBLIC KEY-----\n",
+    "issuer": "ProductionCA",
+    "expiration_date": "2026-01-09T12:04:08.357981",
+    "signature": "mPcqEj29Pt/n4DnUXpK2glCQurANmpFo/4uhMnANeIdryqqbASxlVFAhKipB/WtkiQBMEBTiCB5E0fKAUrcijFTIDbEypZGYC7rbln7uduws56wyN+U4NYhuVeCwqHMUp0pJC0DPY7H+jUCGfxacjKCymgc9gQerLcYvGC9ZCISl5x1/Aj1kPKnPJ2v/IF0/FVHRNaPWdmnTyVlFtAgBcod8DZLIbzrNANHCONaAREkzRAoPHqcfTT1uVvS3iO4xTBHWvG5afj2tiQwNWBxWp6ua/mw4MKNcyUAI5oog7To7NXeq1wL0uASw+T1SHnbXzfI0QmATowU/P48WlQC1EA==",
+    "extensions": {
+        "basic_constraints": {
+            "ca": false
+        },
+        "key_usage": [
+            "digital_signature",
+            "key_encipherment"
+        ]
+    }
+}

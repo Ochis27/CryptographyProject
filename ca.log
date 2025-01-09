@@ -1,0 +1,13 @@
+2025-01-09 14:04:08,116 - __main__ - INFO - Generating root certificate...
+2025-01-09 14:04:08,262 - __main__ - INFO - Root certificate generated: certs/ProductionCA_root_cert.json
+2025-01-09 14:04:08,263 - __main__ - INFO - Issuing certificate for Alice
+2025-01-09 14:04:08,361 - __main__ - INFO - Certificate issued for Alice
+2025-01-09 14:04:08,361 - __main__ - INFO - Alice's certificate issued successfully
+2025-01-09 14:04:08,361 - __main__ - INFO - Issuing certificate for Bob
+2025-01-09 14:04:08,443 - __main__ - INFO - Certificate issued for Bob
+2025-01-09 14:04:08,444 - __main__ - INFO - Bob's certificate issued successfully
+2025-01-09 14:04:08,445 - __main__ - INFO - Alice's certificate validation: Certificate is valid
+2025-01-09 14:04:08,446 - __main__ - INFO - Message encrypted successfully
+2025-01-09 14:04:08,510 - __main__ - INFO - Decrypted message: Hello Bob, this is a secure message from Alice!
+2025-01-09 14:04:08,510 - __main__ - INFO - Alice's certificate revoked
+2025-01-09 14:04:08,510 - __main__ - INFO - Alice's certificate validation after revocation: Certificate has been revoked

@@ -1,0 +1,19 @@
+{
+    "serial_number": 1795731750,
+    "subject": "ProductionCA",
+    "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuVP33wMs1cG7Jye47q8h\ngS28h5X0bIu4vBYaIRQrVhNZnQIWPEPRONxTyk3PGMHjgzgL2TR3kzJj6SivuIQ9\ncgllH1nViXY8pt3zb04/V56VuYZuIjw/WIquHEN7QyEXhjNDq/5sVOI0aAuhDnAM\nGrfgHvZoXv8HKbC7ae3e+9XQ9uDz1JKpoGPmCe+fdIFYhtNDvSSPwEZyj/7boJCJ\nIQuO54moNGTMr/7OfpSs8ESfQAmJ5cmlISRI3Lr2eZ851bUgPRjzQxoYHfi/9Mr9\nis35gTpcRXWO+ISg2x4WEWUqK4nGjeLLp6895uObHRfa2nHLW/uP3H0ZlqcWmmXD\niwIDAQAB\n-----END PUBLIC KEY-----\n",
+    "issuer": "ProductionCA",
+    "expiration_date": "2035-01-07T12:04:08.257661",
+    "signature": "gkDXLF86qpwE5FTU72A1BuvkGK1Il03FkaHTnP2j0YCesh5dg5SFEAxJeBZS1wrQrLmArhybm7ILq285Y+xaGZhEVE0ZKfdo55SzFABMV0uRK5PWpTbkNm98Jp/6YEUORE1+21EX9NlnWaHwduVLLqkREPgn9/iyWT1xcfPo96d4PQE5tlTo0tPhb3tDDiKpmoJSnlQOPS8cCoovFZJeNkfkJrtWJU96N1ZZJDE6KCdVbpnWQbMdE4CwGCNOxzUG7/L6Ef8jiARAj4DkscrzkaDxgJVgxGlBdtc+MoltitZfdj5O41rDWQ/ohUqxj57JoppLkbzEqwEb8st4Y9pYuw==",
+    "extensions": {
+        "basic_constraints": {
+            "ca": true,
+            "path_length": null
+        },
+        "key_usage": [
+            "digital_signature",
+            "key_cert_sign",
+            "crl_sign"
+        ]
+    }
+}
